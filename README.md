@@ -17,7 +17,7 @@ React Router (rutas estáticas y dinámicas), useEffect para peticiones a API y 
    ```
 4) **(Opcional) Configurá tu API** de productos (MockAPI) creando un archivo `.env` en la raíz con:
    ```
-   VITE_API_URL=https://tu-subdominio.mockapi.io/productos
+   VITE_API_URL=https://68feb71f7c700772bb1453f1.mockapi.io/api/v1/productos
    ```
    Si no configurás nada, el proyecto usa `https://63f123.mockapi.io/productos` de ejemplo.
 5) **Levantá** el servidor de desarrollo:
