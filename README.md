@@ -1,4 +1,4 @@
-# TalentoLab eCommerce (React + Vite)
+# PMB eCommerce (React + Vite)
 
 Proyecto basado en las consignas y clases: instalación con Vite, componentes, useState, eventos,
 React Router (rutas estáticas y dinámicas), useEffect para peticiones a API y rutas protegidas.
@@ -7,7 +7,7 @@ React Router (rutas estáticas y dinámicas), useEffect para peticiones a API y 
 - Node.js 18+
 - npm
 
-## APB (A Prueba de Bobos) - Paso a paso
+## ¿Cómo instalar el proyecto?
 
 1) **Descargá** este proyecto y descomprimilo.
 2) **Abrí** una terminal dentro de la carpeta del proyecto.
